@@ -18,7 +18,7 @@ Bienvenue sur le repository officiel de **Tool FR** ! 🚀 Ici, tu trouveras une
 
 📌 **Dans l'onglet Releases** du repository.
 
-📌 **Sur notre serveur Discord** (rejoins-nous pour les dernières mises à jour !).
+📌 **Sur notre serveur [Discord](https://discord.gg/wNrxrDMztZ)**.
 
 ❗ **Attention :** Il est déconseillé de cloner le repository directement, car des mises à jour fréquentes peuvent rendre certains outils instables.
 
