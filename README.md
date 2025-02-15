@@ -6,7 +6,8 @@ Bienvenue sur le repository officiel de **Tool FR** ! 🚀 Ici, tu trouveras une
 
 ## 📂 Structure du repository
 
-🔹 Chaque **outil/bot/script** possède sa propre **branche dédiée**. 
+🔹 Chaque **outil/bot/script** possède sa propre **branche dédiée**.
+
 🔹 La branche `main` contient uniquement ce README, les instructions générales et la licence.
 
 ---
@@ -14,7 +15,9 @@ Bienvenue sur le repository officiel de **Tool FR** ! 🚀 Ici, tu trouveras une
 ## 🚀 Accès aux outils
 
 ⚡ Les versions **compilées** des outils sont disponibles :
+
 📌 **Dans l'onglet Releases** du repository.
+
 📌 **Sur notre serveur Discord** (rejoins-nous pour les dernières mises à jour !).
 
 ❗ **Attention :** Il est déconseillé de cloner le repository directement, car des mises à jour fréquentes peuvent rendre certains outils instables.
@@ -29,9 +32,6 @@ Bienvenue sur le repository officiel de **Tool FR** ! 🚀 Ici, tu trouveras une
 
 ## 📞 Rejoins la communauté !
 
-💬 **Rejoignez-nous sur Discord** : [Lien d'invitation](#)
+💬 **Rejoignez-nous sur [Discord](https://discord.gg/wNrxrDMztZ)**
+
 🐛 **Signalez un problème ou posez une question** via GitHub Issues.
-
----
-
-Merci à tous les membres de la communauté **Tool FR** pour leur engagement et leur passion ! 💙🔥
