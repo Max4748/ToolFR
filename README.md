@@ -4,7 +4,7 @@ Bienvenue sur le repository officiel de **Tool FR** ! 🚀 Ici, tu trouveras une
 
 ---
 
-## 📂 Structure du repository
+## 📂 Structure du repository 
 
 🔹 Chaque **outil/bot/script** possède sa propre **branche dédiée**.
 
